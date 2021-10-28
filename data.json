@@ -1,0 +1,167 @@
+{
+  "title": "ManoMano",
+  "isCompleted": false,
+  "summary": "<p>ManoMano est une entreprise française du secteur du commerce en ligne spécialisée dans le domaine du bricolage et du jardinage. Elle est détenue par la société Colibri. <p><p>Créée en France en 2012[1] sous la forme d'une place de marché, l'entreprise est présente depuis fin 2016 en France, en Belgique, en Espagne, en Italie, au Royaume-Uni et en Allemagne.</p><p>L'entreprise compte aujourd'hui près de 900 personnes.</p>",
+  "sections": {
+    "history": {
+      "title": "Histoire",
+      "sub": [
+        {
+          "title": "Création",
+          "content": "<p>L'entreprise est cofondée en juillet 2012[1] par Christian Raisson et Philippe de Chanville, tous les deux diplômés de l’EDHEC Business School[3], sous la dénomination sociale Colibri SAS. Le site internet est lancé en France en juin 2013 sous le nom MonEchelle puis change de nom en septembre 2015 pour devenir ManoMano et s'étend en France, en Espagne, en Italie, au Royaume-Uni puis en Allemagne.</p>"
+        },
+        {
+          "title": "Développement de la société",
+          "content": "<p>En juillet 2012 ManoMano (sous le nom de MonEchelle) effectue une première levée de fonds de 150 000 €[4] afin de financer le lancement de sa place de marché en France. <br/>En mai 2013 la société effectue une deuxième levée de fonds d'un montant de 300 000 € auprès de business angels[4],[5] et met en ligne son site Internet un mois plus tard. <br />En février 2014 une troisième levée de fonds de 150 000 € est effectuée auprès des actionnaires historiques.</p>"
+        },
+        {
+          "title": "Expansion internationale",
+          "content": "<p>ManoMano a d'abord commencé son activité en France avant d'étendre son activité dans d'autres pays européens. <br/>ManoMano est actuellement présent dans six pays[réf. nécessaire].</p>",
+          "data": [
+            {
+              "title1": "Pays",
+              "title2": "Date d'ouverture"
+            },
+            {
+              "country": "France",
+              "date": "Juin 2013"
+            },
+            {
+              "country": "Espagne",
+              "date": "Juin 2015"
+            },
+            {
+              "country": "Italie",
+              "date": "Juillet 2015"
+            },
+            {
+              "country": "Royaume-Uni",
+              "date": "Janvier 2016"
+            },
+            {
+              "country": "Allemagne",
+              "date": "Novembre 2016"
+            }
+          ]
+        }
+      ]
+    },
+    "identity": {
+      "title": "Identité visuelle",
+      "sub": "Logo de ManoMano depuis sa création",
+      "logos": [
+        {
+          "src": "/",
+          "title": "Logo de ManoMano (ex-monechelle) de 2013 à 2015."
+        },
+        {
+          "src": "/",
+          "title": "Logo de ManoMano de 2015 à 2018."
+        },
+        {
+          "src": "/",
+          "title": "Logo de ManoMano depuis 2018."
+        }
+      ]
+    },
+    "numbers": {
+      "title": "Chiffres clefs",
+      "data": [
+        "CA Europe 2013 : 1 million d’euros",
+        "CA Europe 2014 : 15 millions d'euros[19]",
+        "CA Europe 2015 : 32 millions d'euros[19]",
+        "CA Europe 2016 : 89 millions d'euros[10]",
+        "CA Europe 2017 : 250 millions d'euros[20]",
+        "CA Europe 2018 : 450 millions d'euros[21]",
+        "CA Europe 2019 : 620 millions d'euros",
+        "CA Europe 2020 : 1200 millions d'euros"
+      ]
+    },
+    "notes": {
+      "title": "Notes et références",
+      "data": [
+        "Fiche Colibri SAS sur le RCS",
+        "https://www.lsa-conso.fr/manomano-depasse-le-milliard-d-euros-de-volume-d-affaires-en-2020,372053",
+        "« ManoMano, créé par deux diplômés EDHEC, lève 13 millions d'euros pour un site communautaire dédié au bricolage », sur Edhec.edu, 5 avril 2016 (consulté le 12 janvier 2017)",
+        "« La marketplace dédiée au bricolage Monechelle.com lève 300 000 euros », sur Journaldunet.com, 27 mai 2013",
+        "« Monechelle enfonce le clou avec une nouvelle levée de fonds », sur Itespresso.fr, 28 mai 2013",
+        "« Le site monEchelle.fr lève 2 millions d'euros », sur Journaldunet.com, 15 septembre 2014",
+        "« Qui est ManoMano.fr, cette sorte de \"Uber-Amazon\" du brico-jardin ? », sur L'UsineDigitale.fr, 7 novembre 2016",
+        "« Bricolage collaboratif et jobbing : trouver un bricoleur près de chez soi », sur Francetvinfo.fr, 13 mai 2016",
+        "« \"Après la vallée de la mort, seules 50 % des start-up survivent\" », sur Challenges.fr, 5 avril 2016",
+        "« ManoMano : l'Amazon français du bricolage qui monte, qui monte… », L'Obs,‎ 11 septembre 2017 (lire en ligne, consulté le 30 janvier 2018)",
+        "« ManoMano.fr : le superhéros du bricolage », sur Bfmtv.com, 11 septembre 2017",
+        "« ManoMano s'installe à Bordeaux et va y créer 50 emplois », sur objectifaquitaine.latribune.fr, 5 novembre 2018 (consulté le 25 juin 2019)",
+        "« ManoMano engrange un tour à trois chiffres », sur CFNEWS (consulté le 6 octobre 2020)",
+        "Jean-Guillaume, « French Tech : qui sont les 40 startups qui composent le Next40 ? », sur Presse-citron, 18 septembre 2019 (consulté le 21 septembre 2019)",
+        "« ManoMano engrange un tour à trois chiffres », sur CFNEWS (consulté le 6 octobre 2020)",
+        "« ManoMano dépasse le milliard d’euros de volume d’affaires en 2020 », sur lsa-conso.fr (consulté le 25 octobre 2021)",
+        "« ManoMano, la nouvelle licorne tricolore valorisée 2,6 milliards de dollars », sur Les Echos, 7 juillet 2021",
+        "« Le français ManoMano devient une licorne après une levée de fonds record », sur BFM BUSINESS (consulté le 6 juillet 2021)",
+        "« Manomano, la marketplace du bricolage fait un carton – Entreprendre.fr », sur Entreprendre.fr (consulté le 30 janvier 2018)",
+        "JEAN-NOËL CAUSSIL, « ManoMano change de logo », lsa-conso.fr,‎ 17 septembre 2018 (lire en ligne, consulté le 1er octobre 2018)",
+        "« ManoMano lève 110 millions et part à la conquête de l'Europe », sur business.lesechos.fr, 19 avril 2019 (consulté le 13 janvier 2020)"
+      ]
+    }
+  },
+  "extra": {
+    "title": "\"ManoMano\"",
+    "subtitle": "Colibri",
+    "src": "/",
+    "caption": "Logo de ManoMano depuis 2018",
+    "content": [
+      {
+        "title": "Création",
+        "info": "26-07-2012 (immatriculation)[1]"
+      },
+      {
+        "title": "Dates clés",
+        "info": "Juin 2013 : Lancement de MonEchelle<br/> Septembre 2015 : Changement de nom pour ManoMano"
+      },
+      {
+        "title": "Fondateurs",
+        "info": "Christian Raisson<br/>Philippe de Chanville"
+      },
+      {
+        "title": "Forme juridique",
+        "info": "Société par actions simplifiée"
+      },
+      {
+        "title": "Siège social",
+        "info": "Paris 52 rue Bayen<br/>France"
+      },
+      {
+        "title": "Direction",
+        "info": "Christian Raisson"
+      },
+      {
+        "title": "Activité",
+        "info": "Traitement de données, hébergement et activités connexes"
+      },
+      {
+        "title": "Produits",
+        "info": "Bricolage Jardinage"
+      },
+      {
+        "title": "Sociétés soeurs",
+        "info": "Planete Formation<br/>Asset Recovery<br/>Marietta Martin"
+      },
+      {
+        "title": "SIREN",
+        "info": "752979930"
+      },
+      {
+        "title": "SIREN",
+        "info": "752979930"
+      },
+      {
+        "title": "Site web",
+        "info": "manomano.fr"
+      }
+    ],
+    "ca": {
+      "title": "Chiffre d'affaires",
+      "info": "1.2 milliard d'euros (revendiqué) en 2020 [2]<br/>comptes non disponibles"
+    }
+  }
+}
