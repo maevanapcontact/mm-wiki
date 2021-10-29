@@ -7,6 +7,7 @@ import { Data } from "./interface";
 const readFilePromise = promisify(readFile);
 
 const defaultData: Data = {
+  id: "",
   title: "",
   isCompleted: false,
   summary: "",

@@ -1,5 +1,8 @@
 import type { NextPage } from "next";
 import { useRouter } from "next/router";
+import { useSelector } from "react-redux";
+
+import { State } from "../../store/state";
 
 import Accordion from "../../../accordion/src/Accordion";
 import Aside from "../../../aside/src/Aside";
@@ -12,6 +15,8 @@ import Select from "../../../select/src/Select";
 const Wiki: NextPage = () => {
   const router = useRouter();
   const { id } = router.query;
+  const articles = useSelector((state: State) => state.articles);
+  console.log(articles);
 
   return (
     <PageData title={`${id}`} description={`${id}`}>
