@@ -1,8 +1,6 @@
+import axios from "axios";
 import type { NextPage } from "next";
-import { useRouter } from "next/router";
-import { useSelector } from "react-redux";
-
-import { State } from "../../store/state";
+import { useEffect, useState } from "react";
 
 import Accordion from "../../../accordion/src/Accordion";
 import Aside from "../../../aside/src/Aside";
@@ -13,13 +11,27 @@ import Section from "../../../section/src/Section";
 import Select from "../../../select/src/Select";
 
 const Wiki: NextPage = () => {
-  const router = useRouter();
-  const { id } = router.query;
-  const articles = useSelector((state: State) => state.articles);
-  console.log(articles);
+  const [article, setArticle] = useState({
+    id: "",
+    title: "",
+    isCompleted: false,
+    summary: "",
+    sections: {},
+    extra: {},
+  });
+
+  useEffect(() => {
+    const fetchArticles = async () => {
+      const fetchedArticle = await axios("http://localhost:3000/api/data");
+      setArticle(fetchedArticle.data);
+    };
+    fetchArticles();
+  }, []);
+
+  const { title, summary } = article;
 
   return (
-    <PageData title={`${id}`} description={`${id}`}>
+    <PageData title={`${title}`} description={`${summary}`}>
       <Header />
       <main>
         <div>
