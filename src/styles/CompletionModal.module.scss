@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  width: auto;
+  background: #f8f9fa;
+  color: #54595d;
+  margin: 8px 0 1px 0;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 2px 5px;
+  font-size: 0.9em;
+
+  p {
+    word-wrap: break-word;
+    line-height: 1.6;
+  }
+}
+
+.img {
+  width: 40px;
+  height: 100%;
+}
+
+.title {
+  margin: 0.5em 0 1em 0;
+}

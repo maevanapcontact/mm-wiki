@@ -1,0 +1,42 @@
+.container {
+  width: 294px;
+  background: #f9f9f9;
+}
+
+.headerAside {
+  background: #5ad7ef;
+  text-align: center;
+  font-size: 0.95rem;
+  padding: 5px 0 15px 0;
+
+  h3 {
+    line-height: 2;
+  }
+}
+
+.headerData {
+  padding: 10px;
+}
+
+.caption {
+  display: block;
+  font-size: 0.9em;
+  width: 100%;
+  text-align: center;
+}
+
+.table {
+  margin: 10px 5px 0 10px;
+  padding: 10px 0;
+  border-top: 2px solid #5ad7ef;
+  border-bottom: 2px solid #5ad7ef;
+}
+
+.footer {
+  font-size: 0.7em;
+  padding: 0 10px 10px 10px;
+
+  a {
+    text-decoration: none;
+  }
+}
