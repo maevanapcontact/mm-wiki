@@ -2,7 +2,7 @@ import { useState } from "react";
 
 import styles from "./styles/Header.module.scss";
 
-import Nav from "../../nav/src/Nav";
+import Nav from "./Nav";
 
 const Header = () => {
   const [input, setInput] = useState("");

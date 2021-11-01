@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 
 import styles from "../styles/Intro.module.scss";
 
-import Select from "../../select/src/Select";
+import Select from "../../oldSelect/src/Select";
 
 interface Props {
   summary: string;

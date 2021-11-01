@@ -2,7 +2,7 @@ import { FunctionComponent } from "react";
 
 import styles from "./styles/Footer.module.scss";
 
-import Card from "../../card/src/Card";
+import Card from "./Card";
 
 interface Props {
   days: number;
